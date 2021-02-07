@@ -1,0 +1,3 @@
+[submodule "centralgit"]
+	path = centralgit
+	url = https://github.com/apshin/repo1.git
